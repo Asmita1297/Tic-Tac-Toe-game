@@ -1,0 +1,24 @@
+/* .class {
+    background-color: pink;
+    font-size: 25px;
+    height:auto;
+    width:auto;
+
+}
+.newClass {
+background-color:blue;
+    font-size: 25px;
+    height:auto;
+    width:auto;
+} */
+
+div {
+    height: 100px;
+    width: 100px;
+    color: white;
+    background-color: brown;
+    font-size: 20;
+    border:1px solid;
+    box-sizing: border-box;
+
+}
